@@ -1,5 +1,4 @@
 User-agent: * 
-Disallow: /wp-admin/
-Disallow: /wp-includes/
+Disallow: /slike/
 
 sitemap: https://doxy258.github.io/digitalmarketingagency.com/sitemap.xml
